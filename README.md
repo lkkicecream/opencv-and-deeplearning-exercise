@@ -7,4 +7,4 @@
 - opencv-python-4.5.3.56
 
 ## note
-- [neeed login](https://hackmd.io/@laugh/learning)
+- [login HackMD](https://hackmd.io/@laugh/learning)
